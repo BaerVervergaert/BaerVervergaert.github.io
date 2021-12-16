@@ -1,13 +1,11 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
-author: "Baer Ververgaert"
+author_profile: true
 ---
 
-![My profile picture](/assets/profile-photo.JPG){: width="250" style="float: right; margin-left: 20px;"}
-
-I'm a mathematician by training. I studied from 2011 until 2021 at the Radboud University in the Netherlands. During my studies I specialized in Stochastics with particular attention payed to Learning Theory. Stochastics is the studies of randomized processes and systems. In this sense it encompasses probability theory and statistics, but also goes beyond to processes such as stockmarket models, forest models and disease patterns. Of a particular interest to me was AI (artificial intelligence) and I've defoted part of my studies to that subject.
+I'm a mathematician by training. I studied from 2011 until 2021 at the Radboud University in the Netherlands. During my studies I specialized in Stochastics with particular attention payed to Learning Theory. Stochastics is the studies of randomized processes and systems. In this sense it encompasses probability theory and statistics, but also goes beyond to processes such as stockmarket models, forest models and disease patterns. Of a particular interest to me was AI (artificial intelligence) and I've devoted part of my studies to that subject.
 
 I have become particularly interested in:
 - Online Learning Theory

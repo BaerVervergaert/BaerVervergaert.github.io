@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: collection
 title: Mathematics and Art
 permalink: /Mathematics and Art/
 author: "Baer Ververgaert"

@@ -1,0 +1,16 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Data Sorcery"
+    url: /Data Sorcery/
+  - title: "Mathemagics"
+    url: /Mathemagics/
+  - title: "Mathematics and Art"
+    url: /Mathematics and Art/
+  - title: "Artistry"
+    url: /Artistry/
+  - title: "Personal Blogs"
+    url: /Personal Blogs/
+  - title: "About"
+    url: /about/
+    

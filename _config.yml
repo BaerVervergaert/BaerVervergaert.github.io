@@ -18,7 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Baer Cave - Exploring the Mystic Mountains of Data Sorcery, Mathemagics and Artistry
+title: The Baer Cave
+subtitle: Exploring the Mystic Mountains of Data Sorcery, Mathemagics and Artistry
+name: Baer Ververgaert
 email: bgmj.ververgaert@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blogging about my experiences with data science, using mathematics to back it up and posting the occasional poem or image.
@@ -26,6 +28,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  BaerVervergaert
+
+
+# Author
+author:
+  name     : "Baer Ververgaert"
+  avatar   : "/assets/images/profile-photo.JPG"
+  bio      : "Understading the world, one bit at a time."
+  location : "Nijmegen, Netherlands"
 
 # Collections
 collections_dir: collections
@@ -75,20 +85,12 @@ default:
                   layout: "posts"
 
 
-# Header pages
-header_pages:
-  - DataSorcery.md
-  - Mathemagics.md
-  - Artistry.md
-  - MathematicsArt.md
-  - PersonalBlogs.md
-  - about.md
-
-
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

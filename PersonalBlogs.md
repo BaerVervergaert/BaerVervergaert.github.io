@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: collection
 title: Personal Blogs
 permalink: /Personal Blogs/
 author: "Baer Ververgaert"

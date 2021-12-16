@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: collection
 title: Artistry
 permalink: /Artistry/
 author: "Baer Ververgaert"

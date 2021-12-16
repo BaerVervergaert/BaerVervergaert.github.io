@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: collection
 title: Mathemagics
 permalink: /Mathemagics/
 author: "Baer Ververgaert"

@@ -4,6 +4,7 @@
 
 layout: home
 title: Introductions
+author_profile: true
 ---
 
 Hi! I'm Baer Ververgaert a mathematician and data scientist with a passion for art. I live in Nijmegen in the Netherlands. And, I want to shed some light on these topics for you.

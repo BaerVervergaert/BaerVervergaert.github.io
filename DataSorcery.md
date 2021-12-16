@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: collection
 title: Data Sorcery
 permalink: /Data Sorcery/
 author: "Baer Ververgaert"
