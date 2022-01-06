@@ -25,17 +25,24 @@ email: bgmj.ververgaert@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blogging about my experiences with data science, using mathematics to back it up and posting the occasional poem or image.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://baerververgaert.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  BaerVervergaert
+google-site-verification: google8add7be213fc8707.html
 
 
 # Author
 author:
   name     : "Baer Ververgaert"
   avatar   : "/assets/images/profile-photo.JPG"
-  bio      : "Understading the world, one bit at a time."
+  bio      : "Understanding the world, one bit at a time."
   location : "Nijmegen, Netherlands"
+  url      : "https://baerververgaert.github.io/"
+
+social:
+  name: Baer Ververgaert
+  links:
+    - https://www.linkedin.com/in/baer-ververgaert-699500162/
 
 # Collections
 collections_dir: collections
@@ -91,6 +98,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
