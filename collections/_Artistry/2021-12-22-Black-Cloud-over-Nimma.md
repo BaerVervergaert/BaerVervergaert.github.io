@@ -6,6 +6,6 @@ header:
 layout: single
 ---
 
-*After a stroll in the cold winter afternoon a black cloud covered the city darkness.*
+*After a stroll in the cold winter afternoon a black cloud covered the city in darkness.*
 
 Original picture by Floor Toebes. Edited to this monstrosity by Baer Ververgaert.
