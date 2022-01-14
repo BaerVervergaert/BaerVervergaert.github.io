@@ -6,11 +6,19 @@ layout: archive
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
+{% comment %}
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
   {% assign posts = site.posts %}
 {% endif %}
+{% endcomment %}
+
+{% assign posts = '' | split: '' %}
+{% for collection in site.collections %}
+  {% assign posts = posts | concat: collection.docs %}
+{% endfor %}
+{% assign posts = posts | sort: "date" | reverse | slice: 0, 5 %}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
