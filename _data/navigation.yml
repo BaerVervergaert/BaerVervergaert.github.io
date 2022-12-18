@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "I have wings and I must fly"
+    url: /I have wings and I must fly/
   - title: "Data Sorcery"
     url: /Data Sorcery/
   - title: "Mathemagics"

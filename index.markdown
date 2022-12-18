@@ -12,6 +12,7 @@ Hi! I'm Baer a mathematician and data nerd with a passion for art. I've studied 
 On this website you can find my blogs as well as some of my art. It's a display of some of my ideas and endeavors that I think deserve to be out there but I haven't found a suitable place and audience for.
 
 You can find relevant blog posts and info via the menu. Particularly, go to 
+- [I have wings and I must fly]({% link IhavewingsandImustfly.md %}): for software tool related blogs. Here you'll find information on various software tools used in the data community.
 - [Data Sorcery]({% link DataSorcery.md %}): for data related blog posts. Here you'll find models and data science projects.
 - [Mathemagics]({% link Mathemagics.md %}): for mathematical related posts. Here you'll find discussions of mathematics as well as some mathematical relevant posts.
 - [Artistry]({% link Artistry.md %}): for some art projects that I've been working on. Particularly, images and poetry.
