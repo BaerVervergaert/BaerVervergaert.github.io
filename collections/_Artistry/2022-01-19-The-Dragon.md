@@ -1,8 +1,22 @@
 ---
 title: "The Dragon"
 layout: single
----
+excerpt: "*Now will I in another song make known,  
+Reveal in words, with verse-craft, from my mind  
+About a race of reptile, the mighty dragon.*
 
+*He often is found fierce and grim of heart,  
+Not by their wish, to travelers of the hills  
+To every man; this flyer of the wind-streams  
+Has got the name of Winged King.*
+
+*His countenance is like the rugged stone  
+As if a greying sheet of rock lay  
+Slumbered on the mountain slope,  
+So that mountain-climbers made to think  
+That they walk on solid stone with their feet;* 
+"
+---
 
 *Now will I in another song make known,  
 Reveal in words, with verse-craft, from my mind  

@@ -2,6 +2,7 @@
 layout: single
 title: Megaregions of the World
 collection: DataSorcery
+date: 21-12-2021
 ---
 
 ![Megaregions of the World](/assets/images/DenseAreas.png)
